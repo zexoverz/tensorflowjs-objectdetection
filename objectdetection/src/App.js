@@ -1,6 +1,6 @@
 import './App.css';
 import React, {useEffect} from 'react';
-import * as tf from '@tensorflow/tfjs';
+// import * as tf from '@tensorflow/tfjs';
 const cocoSsd = require('@tensorflow-models/coco-ssd');
 
 function App() {
